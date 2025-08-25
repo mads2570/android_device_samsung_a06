@@ -13,7 +13,7 @@ $(call inherit-product, device/samsung/a06/device.mk)
 $(call inherit-product, vendor/twrp/config/common.mk)
 
 
-PRODUCT_DEVICE := a06
+PRODUCT_DEVICE := a06x
 PRODUCT_NAME := twrp_a06
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-A066E
