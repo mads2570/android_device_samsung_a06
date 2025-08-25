@@ -1,5 +1,5 @@
 ro.display.series=Samsung Galaxy A06
 ro.board.platform=mt6835
-ro.display.series=musb-hdrc
+sys.usb.controller=musb-hdrc
 ro.boot.dynamic_partitions=true
 ro.boot.boot_devices=bootdevice,11230000.mmc
